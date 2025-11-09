@@ -1,0 +1,31 @@
+cs:
+  locale_name: Čeština
+  nav:
+    about: O nás
+    contribute: Přispět
+  index:
+    lead: Open source software je vyráběn lidmi jako jste vy. Naučte se jak vyvinout a provozovat svůj vlastní projekt.
+    opensourcefriday: Dnes je pátek! Investuj pár hodin svého času, do vyvíjení projektů které máte rádi
+  article:
+    table_of_contents: Obsah
+    back_to_all_guides: Zpátky na všechny průvodce
+    related_guides: Související průvodci
+  footer:
+    contribute:
+      heading: Přispět
+      description: Chcete udělat návrh? Celý tento web je open source. Pomoz nám ho vylepšit.
+      button: Přispět
+    subscribe:
+      heading: Zůstat v kontaktu
+      description: Buďte první kdo se dozví o nejnovějších tipech a zdrojích od GitHubu
+      label: E-mailová adresa
+      button: Přihlásit se k odběru
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] s [love] od [github] a [friends]"
+      # Label for code octicon
+      code_label: naprogramováno
+      # Label for love octicon
+      love_label: láskou
+      # Label for the contributors link
+      friends_label: kamarádů
